@@ -9,4 +9,4 @@ This is my collection of python programs for Beginner's
 5. [Body Mass Index](Programs/Body_Mass_Index(BMI).py)
 
 # Python Programs using Turtle
-1. [Draw a Table](Turtle/Table.py)
+1. [Draw a Table](Turtle/Table.py) using prettytable module.
