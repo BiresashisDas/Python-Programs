@@ -1,3 +1,7 @@
+#Author :- Biresashis Das
+
+# To check whether the year is a leap year or not.
+
 '''Below are the points of how to check whether a year is a leap year or not.
     --- on every year that is evenly divisible by 4 
     --- except every year that is evenly divisible by 100 
