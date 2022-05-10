@@ -1,5 +1,5 @@
 # Python Programs 
-This is my collection of python programs for Beginner's
+This is my collection of python programs for Beginner's.
 
 # Basic Programs
 1. [Built-in Functions](Programs/function.py)
