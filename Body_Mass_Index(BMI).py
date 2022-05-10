@@ -1,4 +1,6 @@
-#How to calculate a Body mass index.
+# Author :- Biresashis Das
+
+# How to calculate a Body mass index.
 
 height = float(input("Enter your height in m: "))
 weight = float(input("Enter your weight in kg: "))
