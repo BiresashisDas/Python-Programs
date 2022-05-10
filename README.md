@@ -1,6 +1,7 @@
-# Basic-Python-programs-for-Beginner's-
- Here I will code some basics programs of Python. Concepts like if/else statements, for and while loops, functions, list, tuple, and many more will be used. This programs will help Beginner's to understand python more easily.
+# Python Programs 
 
-[Even or Odd](leap_year.py)
-
-# Leap Year
+1.[Built-in Functions](function.py)
+2.[Odd and Even](odd_or_even.py)
+3.[Leap Year](leap_year.py)
+4.[Years Left](Life_in_days_weeks_months.py)
+5.[Body Mass Index](Body_Mass_Index(BMI).py)
