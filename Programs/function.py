@@ -1,4 +1,4 @@
-#Author :- Biresashis Das
+# Author :- Biresashis Das
 
 #Here i will show how to use a Built-in function and Datatypes.
 #Note :- I will also use the type function to chech what is the class of a variable
