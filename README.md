@@ -1,5 +1,7 @@
 # Python Programs 
+This is my collection of python programs for Beginner's
 
+# Basic Programs
 1. [Built-in Functions](function.py)
 2. [Odd and Even](odd_or_even.py)
 3. [Leap Year](leap_year.py)
