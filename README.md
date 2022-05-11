@@ -9,10 +9,10 @@ Here is a few python programs that I have coded.
 5. [Body Mass Index](Programs/Body_Mass_Index(BMI).py)
 
 # Python Programs using Turtle
-1. [Draw a Table](Turtle/Table.py) using prettytable module.
-2. [Draw a Sqaure](Turtle/Square.py)
-3. [Draw a Circle](Turtle/Circle.py)
-4. [Draw a Spiral Circle](Turtle/spiral_circle.py)
+1. [Table](Turtle/Table.py) Drawing a table using prettytable module.
+2. [Sqaure](Turtle/Square.py)
+3. [Circle](Turtle/Circle.py)
+4. [Spiral Circle](Turtle/spiral_circle.py)
 
    SAMPLE OUTPUT
 
