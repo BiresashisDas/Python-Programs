@@ -12,9 +12,8 @@ Here is a few python programs that I have coded.
 1. [Draw a Table](Turtle/Table.py) using prettytable module.
 2. [Draw a Sqaure](Turtle/Square.py)
 3. [Draw a Circle](Turtle/Circle.py)
-4. [Draw a Spiral Circle](spiral_circle.py)
+4. [Draw a Spiral Circle](spiral_circle.py)![spiral_circle](https://user-images.githubusercontent.com/105218699/167843371-d4f35854-e2d9-4e56-9de7-017f43662937.png)
 SAMPLE OUTPUT OF SPIRAL CIRCLE
-![spiral_circle](https://user-images.githubusercontent.com/105218699/167843371-d4f35854-e2d9-4e56-9de7-017f43662937.png)
 
 
 
