@@ -10,6 +10,7 @@ This is my collection of python programs for Beginner's.
 
 # Python Programs using Turtle
 1. [Draw a Table](Turtle/Table.py) using prettytable module.
+2. [Draw a Sqaure](Turtle/Square.py)
 
 # Simple Games in Python
 1. [Rock Paper Scissor Game](Simple_Game/rock_paper_scissor.py)
