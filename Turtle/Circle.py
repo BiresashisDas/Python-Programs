@@ -12,6 +12,7 @@ screen = Screen()
 bir.color("red")
 bir.width(12)
 print(bir.circle(100))
+bir.hideturtle()      # It is used to hide the arrow 
 
 screen.exitonclick()
 
