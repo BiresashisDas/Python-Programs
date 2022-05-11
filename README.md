@@ -13,7 +13,9 @@ Here is a few python programs that I have coded.
 2. [Draw a Sqaure](Turtle/Square.py)
 3. [Draw a Circle](Turtle/Circle.py)
 4. [Draw a Spiral Circle](spiral_circle.py)
-![image](https://user-images.githubusercontent.com/105218699/167842430-96292094-4010-4562-9386-004ac667356c.png)
+SAMPLE OUTPUT OF SPIRAL CIRCLE
+![spiral_circle](https://user-images.githubusercontent.com/105218699/167843371-d4f35854-e2d9-4e56-9de7-017f43662937.png)
+
 
 
 # Simple Games in Python
