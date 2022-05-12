@@ -14,13 +14,13 @@ bir.penup()
 bir.hideturtle()
 bir.width(5)
 for i in range(1, 300, 30):
-    bir.right(90)    # Face South
-    bir.forward(i)   # Move one radius
-    bir.right(270)   # Back to start heading
-    bir.pendown()    # Put the pen back down
-    bir.circle(i)    # Draw a circle
-    bir.penup()      # Pen up while we go home
-    bir.home()       # Head back to the start pos
+    bir.right(90)    
+    bir.forward(i)   
+    bir.right(270)   
+    bir.pendown()    
+    bir.circle(i)  
+    bir.penup()      
+    bir.home()       
     bir.color(random.choice(colors))
 
 screen.exitonclick()
