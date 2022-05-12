@@ -5,7 +5,7 @@
   """   Hangman is a game where you have to guess a letter to complete the random word that computer will generate. 
         If u successfully guessed all the letters than u will win the game. 
         For every wrong guessed u will lose a life. You have only seven chances. 
-        If you gussed the wrong for 7 times you will eventually lost the game   """
+        If you guessed the letter wrong for 7 times you will eventually lost the game   """
   
 
 import random
