@@ -23,3 +23,4 @@ Here is a few python programs that I have coded.
 
 # Simple Games in Python
 1. [Rock Paper Scissor Game](Simple_Game/rock_paper_scissor.py)
+2. [Hangman Game](Simple_Game/hangman.py)
