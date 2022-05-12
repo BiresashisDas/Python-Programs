@@ -1,7 +1,12 @@
 # Author :- Biresashis Das
 
 # How to create a Hangman Game.
-#
+
+  """   Hangman is a game where you have to guess a letter to complete the random word that computer will generate. 
+        If u successfully guessed all the letters than u will win the game. 
+        For every wrong guessed u will lose a life. You have only seven chances. 
+        If you gussed the wrong for 7 times you will eventually lost the game   """
+  
 
 import random
 stages = ['''
@@ -61,7 +66,7 @@ stages = ['''
 =========
 ''']
 end_of_game = False
-words = ["donkey", "apple", "dictionary", "mango"]
+words = ["frog", "apple", "dictionary", "mango"]  #You can add many words as you want in the list. The more words you will enter the more interesting the game will be.
 
 choosen_word = random.choice(words)
 #print("The choosen word is : ", choosen_word)
@@ -97,3 +102,9 @@ while not end_of_game:
         print("You win")
 
     print(stages[lives])
+    
+    
+    
+    
+    
+    
