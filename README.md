@@ -20,10 +20,6 @@ Here is a few python programs that I have coded.
 
 5. [Concentric Circle](Turtle/concentric_circle.py)
 
-   It will show the given output :-
-
-![concentric_circle](https://user-images.githubusercontent.com/105218699/168011450-b7467fde-c90d-4d01-931c-1455dfd0de74.png)
-
 
 # Simple Games in Python
 1. [Rock Paper Scissor Game](Simple_Game/rock_paper_scissor.py)
