@@ -1,3 +1,5 @@
+# Author :- Biresashis Das
+
 from turtle import Turtle
 
 Align = ("center")
@@ -25,3 +27,7 @@ class Score(Turtle):
         self.score += 1
         self.clear()
         self.update_score()
+        
+        
+        
+        
