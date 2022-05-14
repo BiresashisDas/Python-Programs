@@ -1,3 +1,7 @@
+# Author :- Biresashis Das
+
+# This is the food file. Here we will decide the shape and size pf our snake food's.
+
 from turtle import Turtle
 import random
 
@@ -15,3 +19,6 @@ class Food(Turtle):
         x_axis = random.randint(-180,180)
         y_axis = random.randint(-180, 180)
         self.goto(x_axis, y_axis)
+        
+        
+        
