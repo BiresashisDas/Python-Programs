@@ -1,3 +1,8 @@
+# Author :- Biresashis Das
+
+# This is our main file. We will run this file to start our snake game. 
+# As you guys can see how I have imported other python files in this file.
+
 from turtle import Screen
 import time
 from snake import Snake
@@ -45,3 +50,9 @@ while is_game_on:
 
 
 screen.exitonclick()
+
+
+
+
+
+
