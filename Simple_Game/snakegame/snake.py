@@ -1,3 +1,5 @@
+# Author :- Biresashis Das
+
 from turtle import Turtle
 
 new_position = [(0,0), (-20,0), (-40,0)]
@@ -49,3 +51,7 @@ class Snake:
     def right(self):
         if self.top.heading() != left_direction:
             self.top.setheading(right_direction)
+            
+            
+            
+       
