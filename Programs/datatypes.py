@@ -1,6 +1,5 @@
 # Author :- Biresashis Das
 
-# We will see here how to create a datatype and know which object is which datatype.
 # Note :- We can get the data type of any object using the type() function
 
 x = "HelloWorld"
