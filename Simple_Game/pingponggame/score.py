@@ -30,3 +30,6 @@ class Score(Turtle):
     def right_point(self):
         self.right_score += 1
         self.add_score()
+        
+        
+        
