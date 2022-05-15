@@ -1,5 +1,13 @@
 # Author :- Biresashis Das
 
+'''             For Right Paddle :-
+                We will use upper arrow for upper direction
+                Down arrow for lower direction
+                For Left Paddle :-
+                We will use 'R' key for upper direction 
+                and 'F' key for lower direction                 '''
+
+
 from turtle import Screen
 from paddle import Paddle
 from ball import Ball
