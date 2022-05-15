@@ -1,3 +1,16 @@
+# Author :- Biresashis Das
+
+# This is our main file. We will run this file to start our ping pong game. 
+# As you guys can see how I have imported other python files in this file.
+
+'''     For Left Paddle :-
+        We will use upper arrow for upper direction
+        Down arrow for lower direction
+        For Right Paddle :-
+        We will use 'R' key for upper direction
+        and 'F' key for lower direction             '''
+
+
 from turtle import Screen
 from paddle import Paddle
 from ball import Ball
