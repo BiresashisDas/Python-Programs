@@ -2,7 +2,7 @@
 Here is a few python programs that I have coded.
 
 # Basic Programs
-1. [Built-in Functions](Programs/function.py)
+1. [Built-in Datatypes](Programs/function.py)
 2. [Odd and Even Number](Programs/odd_or_even.py)
 3. [Leap Year](Programs/leap_year.py)
 4. [Years Left](Programs/Life_in_days_weeks_months.py)
