@@ -1,5 +1,9 @@
 # Author :- Biresashis Das
 
+# This is our main file. We will run this file to start our ping pong game. 
+# As you guys can see how I have imported other python files in this file.
+
+
 '''             For Right Paddle :-
                 We will use upper arrow for upper direction
                 Down arrow for lower direction
