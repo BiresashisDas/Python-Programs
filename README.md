@@ -2,11 +2,12 @@
 Here is a few python programs that I have coded.
 
 # Basic Programs
-1. [Built-in Datatypes](Programs/function.py)
-2. [Odd and Even Number](Programs/odd_or_even.py)
-3. [Leap Year](Programs/leap_year.py)
-4. [Years Left](Programs/Life_in_days_weeks_months.py)
-5. [Body Mass Index](Programs/Body_Mass_Index(BMI).py)
+1. [Pyhton Datatypes](Programs/datatypes.py)
+2. [Built-in Datatypes](Programs/function.py)
+3. [Odd and Even Number](Programs/odd_or_even.py)
+4. [Leap Year](Programs/leap_year.py)
+5. [Years Left](Programs/Life_in_days_weeks_months.py)
+6. [Body Mass Index](Programs/Body_Mass_Index(BMI).py)
 
 # Object Oriented Programming (OOP)
 1. [Class](OOP/classdefination.py)
