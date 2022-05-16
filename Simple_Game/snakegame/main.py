@@ -3,7 +3,8 @@
 # This is our main file. We will run this file to start our snake game. 
 # As you guys can see how I have imported other python files in this file.
 
-'''     We will use upper arrow for up direction
+'''     To move our snake :-
+        We will use upper arrow for up direction
         Down arrow for down direction
         Left arrow for direction
         and Right arrow for right direction     '''
