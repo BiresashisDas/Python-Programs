@@ -21,14 +21,15 @@ Here is a few collection of my **Python Programs**.
 1. [Table](Turtle/Table.py) Drawing a table using prettytable module.
 2. [Sqaure](Turtle/Square.py)
 3. [Circle](Turtle/Circle.py)
-4. [Spiral Circle](Turtle/spiral_circle.py)
+4. [Rectangle](Turtle/rectangle.py)
+5. [Different Shapes](Turtle/differentshapes.py)
+6. [Spiral Circle](Turtle/spiral_circle.py)
 
    It will show the given output :-
 
      ![spiral_circle](https://user-images.githubusercontent.com/105218699/167845824-1c2b24a9-d533-4363-ad65-91d8dd7c1fa6.png)
 
-5. [Concentric Circle](Turtle/concentric_circle.py)
-6. [Rectangle](Turtle/rectangle.py)
+7. [Concentric Circle](Turtle/concentric_circle.py)
 
 
 # Simple Games in Python
