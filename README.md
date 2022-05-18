@@ -16,7 +16,7 @@ Here is a few collection of my **Python Programs**.
 # Some Important Modules
 1. [Calendar](Modules/calendar.py)
 2. [Creating a Virus](Modules/virus.py)
-3. [Factorial](Modules/mathmodule.py)
+3. [Factorial](Modules/math_module.py)
 
 # Python Programs using Turtle module
 1. [Table](Turtle/Table.py) Drawing a table using prettytable module.
