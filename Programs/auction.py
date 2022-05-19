@@ -11,9 +11,9 @@ def find_highest_bidder(bidding_record):
   winner = ""
 
   for bidder in bidding_record:
-    bid_amount = bidding_record[bidder]
-    if bid_amount > highest_bid:
-      highest_bid = bid_amount
+    bid_price = bidding_record[bidder]
+    if bid_price > highest_bid:
+      highest_bid = bid_price
       winner = bidder
   print(f"The Winner is {winner} with a bid of ${highest_bid}")
 
