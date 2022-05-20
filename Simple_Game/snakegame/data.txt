@@ -1,1 +1,5 @@
+# Author :- Biresashis Das
+
+# Everytime you run the "main.py" file and set a new high score the data in this file will change. Your last high score will saved in this file. The number below represented your current high score.
+
 0
