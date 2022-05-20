@@ -25,6 +25,13 @@ class Snake:
         bir.goto(i)
         self.segments.append(bir)
 
+    def reset(self):
+        for seg in self.segments:
+            seg.goto(1000,1000)
+        self.segments.clear()
+        self.another_snake()
+        self.top = self.segments[0]
+
     def size_increase(self):
         self.add_segment(self.segments[-1].position())
 
