@@ -3,7 +3,7 @@
 import pandas
 
 data = pandas.read_csv("weather_data.csv")
-print(data["Temparature"])
+print(data["Temperature	"])
 
 
 
