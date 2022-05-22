@@ -28,7 +28,7 @@ Here is a few collection of my **Python Programs**.
 5. [Different Shapes](Turtle/differentshapes.py)
 6. [Spiral Circle](Turtle/spiral_circle.py)
 
-   It will show the given output :-
+   It will print the given output :-
 
      ![spiral_circle](https://user-images.githubusercontent.com/105218699/167845824-1c2b24a9-d533-4363-ad65-91d8dd7c1fa6.png)
 
