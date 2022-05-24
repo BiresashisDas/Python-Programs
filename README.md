@@ -13,13 +13,6 @@ Here is a few collection of my **Python Programs**.
 1. [Class](OOP/classdefination.py)
 2. [Inheritance](OOP/inheritance.py)
 
-# Some Important Modules
-1. [Calendar](Modules/calendar.py)
-2. [Creating a Virus](Modules/virus.py) (using Turtle module)
-3. [Factorial](Modules/math_module.py) (using math module)
-4. [CSV](Modules/csv)
-5. [PANDAS](Modules/pandas)
-
 # Python Programs using Turtle module
 1. [Table](Turtle/Table.py) Drawing a table using prettytable module.
 2. [Sqaure](Turtle/Square.py)
@@ -28,11 +21,18 @@ Here is a few collection of my **Python Programs**.
 5. [Different Shapes](Turtle/differentshapes.py)
 6. [Spiral Circle](Turtle/spiral_circle.py)
 
-   It will print the given output :-
+   It will print the below output :-
 
      ![spiral_circle](https://user-images.githubusercontent.com/105218699/167845824-1c2b24a9-d533-4363-ad65-91d8dd7c1fa6.png)
 
 7. [Concentric Circle](Turtle/concentric_circle.py)
+
+# Some Important Modules
+1. [Calendar](Modules/calendar.py)
+2. [Creating a Virus](Modules/virus.py) (using Turtle module)
+3. [Factorial](Modules/math_module.py) (using math module)
+4. [CSV](Modules/csv)
+5. [PANDAS](Modules/pandas)
 
 # Simple Games in Python
 1. [Rock Paper Scissor Game](Simple_Game/rock_paper_scissor.py)
