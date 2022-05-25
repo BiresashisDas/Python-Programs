@@ -33,7 +33,7 @@ Here is a few collection of my **Python Programs**.
 3. [Factorial](Modules/math_module.py) (using math module)
 4. [CSV](Modules/csv)
 5. [PANDAS](Modules/pandas)
-   - [DATAFRAME]((Modules/pandas/datafame.py)
+   - [Dataframe](Modules/pandas/datafame.py)
 
 # Simple Games in Python
 1. [Rock Paper Scissor Game](Simple_Game/rock_paper_scissor.py)
