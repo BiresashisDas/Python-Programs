@@ -10,3 +10,16 @@ data_new = pandas.DataFrame(data_dict_new)
 print(data_new)
 
 
+
+
+#   EXPECTED OUTPUT
+
+
+#        Students  Scores
+#     0     Ronak      54
+#     1  Abhishek      76
+#     2      Udit      83
+
+
+
+
