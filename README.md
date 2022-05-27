@@ -40,6 +40,7 @@ Here is a few collection of my **Python Programs**.
 2. [Hangman Game](Simple_Game/hangman.py)
 3. [Snake Game](Simple_Game/snakegame)
 4. [Ping Pong Game](Simple_Game/pingponggame)
+5. [India States Game](Simple_Game/India_states_game)
 
 # Random Python Programs
 1. [Calculator](Programs/calculator.py)
