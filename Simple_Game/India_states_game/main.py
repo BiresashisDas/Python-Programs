@@ -1,10 +1,12 @@
 # Author :- Biresashis Das
 
+# This is our main file. We will run this file to start our INDIA STATES GAME.
+
 import turtle
 import pandas
 
 screen = turtle.Screen()
-screen.title("INDIA States Game")
+screen.title("INDIA STATES GAME")
 image = "states_of_INDIA.gif"
 screen.bgpic(image)
 turtle.shape(image)
