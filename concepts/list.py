@@ -1,5 +1,7 @@
 # Author :- Biresashis Das
 
+# Note :- We use this "[]" to make a list.
+
 number = [1,2,3]
 numbers = []
 
