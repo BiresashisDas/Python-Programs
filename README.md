@@ -14,9 +14,12 @@ Here is a few collection of my **Python Programs**.
 2. [Inheritance](OOP/inheritance.py)
 
 # Python Concepts
-1. [List](concepts/list.py)
-   - [List Comprehension](concepts/list_comprehension.py)
-   - [Conditional List Comprehension](concepts/conditional_list.py)
+1. [List](concepts/1.list.py)
+   - [List Comprehension](concepts/2.list_comprehension.py)
+   - [Conditional List Comprehension](concepts/3.conditional_list.py)
+2. [Dictionary]
+   - [Dictionary Comprehension](concepts/4.dict_comprehension.py)
+   - [Conditional Dictionary Comprehension](concepts/5.conditional_dict.py)
 # Python Programs using Turtle module
 1. [Table](Turtle/Table.py) Drawing a table using prettytable module.
 2. [Sqaure](Turtle/Square.py)
