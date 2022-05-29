@@ -18,4 +18,8 @@ new_name = [names.upper() for names in name if len(names) < 5]
 print(new_name)
 
 
+# Expected Output
+
+# [1, 2]
+# ['ABHI', 'BIR', 'ASH']
 
