@@ -13,6 +13,10 @@ Here is a few collection of my **Python Programs**.
 1. [Class](OOP/classdefination.py)
 2. [Inheritance](OOP/inheritance.py)
 
+# Python Concepts
+1. [List](concepts/list.py)
+   - [List Comprehension](concepts/list_comprehensions.py)
+   - [Conditional List Comprehension](concepts/conditional_list.py)
 # Python Programs using Turtle module
 1. [Table](Turtle/Table.py) Drawing a table using prettytable module.
 2. [Sqaure](Turtle/Square.py)
