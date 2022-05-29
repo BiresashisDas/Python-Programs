@@ -15,7 +15,7 @@ Here is a few collection of my **Python Programs**.
 
 # Python Concepts
 1. [List](concepts/list.py)
-   - [List Comprehension](concepts/list_comprehensions.py)
+   - [List Comprehension](concepts/list_comprehension.py)
    - [Conditional List Comprehension](concepts/conditional_list.py)
 # Python Programs using Turtle module
 1. [Table](Turtle/Table.py) Drawing a table using prettytable module.
