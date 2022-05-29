@@ -11,4 +11,8 @@ for n in number:
 print(numbers)
 
 
+# Expected Output
+# [2, 3, 4]
+
+
 
