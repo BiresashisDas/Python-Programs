@@ -16,10 +16,19 @@ all_states = data.state.to_list()
 guessed_places = []
 
 while len(guessed_places) < 37:
-    states = screen.textinput(title=f"{len(guessed_places)}/37 States and UT Correct",
-                              prompt="Write the name of the state or UT?").title()
-
+    states = screen.textinput(title=f"{len(guessed_places)}/37 States and UT Correct", prompt="Write the name of the state or UT?").title()
+                              
+    '''
+    If you forgot the name of the states or UT just type "exit" and it will stop the program. And it will generate a new file "states_learned" that will show the name 
+    of the those states or UT that you don't know or missed.
+    '''
     if states == "Exit":
+        missed_states = [] 
+        for state in all_states:
+            if state not in guessed_places:
+                missed_states.append(state)
+        new_data = pandas.DataFrame(missed_states)
+        new_data.to_csv("states_learned")
         break
 
     if states in all_states:
