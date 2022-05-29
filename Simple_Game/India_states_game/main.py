@@ -40,8 +40,6 @@ while len(guessed_places) < 37:
         t.goto(int(state_data.x), int(state_data.y))
         t.write(states)
 
-screen.exitonclick()
-
 
 
 
