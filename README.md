@@ -13,13 +13,15 @@ Here is a few collection of my **Python Programs**.
 1. [Class](OOP/classdefination.py)
 2. [Inheritance](OOP/inheritance.py)
 
-# Python Concepts
-1. [List](concepts/1.list.py)
-   - [List Comprehension](concepts/2.list_comprehension.py)
-   - [Conditional List Comprehension](concepts/3.conditional_list.py)
-2. **Dictionary**
-   - [Dictionary Comprehension](concepts/4.dict_comprehension.py)
-   - [Conditional Dictionary Comprehension](concepts/5.conditional_dict.py)
+# LIST
+1. [List](list/1.list.py)
+2. [List Comprehension](list/2.list_comprehension.py)
+3. [Conditional List Comprehension](list/3.conditional_list_comprehension.py)
+
+# DICTIONARY
+1. [Dictionary Comprehension](Dictionary/1.dict_comprehension.py)
+2. [Conditional Dictionary Comprehension](Dictionary/2.conditional_dict_comprehension.py)
+
 # Python Programs using Turtle module
 1. [Table](Turtle/Table.py) Drawing a table using prettytable module.
 2. [Sqaure](Turtle/Square.py)
