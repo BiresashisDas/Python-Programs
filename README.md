@@ -58,4 +58,4 @@ Here is a few collection of my **Python Programs**.
 3. [Student Score](Programs/student_score.py)
 4. [Auction](Programs/auction.py)
 5. [Leap Year](Programs/leap_year(bool).py) (using Boolean)
-6. [NATO PHONETIC ALPHABET](Programs/nato_phonetic_alphabet/mian.py)
+6. [NATO PHONETIC ALPHABET](Programs/nato_phonetic_alphabet/main.py)
