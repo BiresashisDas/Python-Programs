@@ -1,5 +1,7 @@
 # Author :- Biresashis Das
 
+# NOTE :- **kwargs stands for "keywords Arguments".
+
 class Sports():
     def __init__(self, **kwargs):
         self.sports = kwargs.get("sports_name")
