@@ -1,6 +1,6 @@
 # Author :- Biresashis Das
 
-# NOTE :- **kwargs stands for "keywords Arguments".
+# NOTE :- **kwargs : Many Keyworded Argumnets.
 
 class Sports():
     def __init__(self, **kwargs):
