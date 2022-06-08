@@ -1,6 +1,6 @@
 # Author :- Biresashis Das
 
-# NOTE :- **kwargs stands for "Keywords Argumnets".
+# NOTE :- **kwargs : Many Keyworded Argumnets.
 
 def calculate(n, **kwargs):
     n += kwargs["add"]
