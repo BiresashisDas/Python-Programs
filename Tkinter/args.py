@@ -7,3 +7,6 @@ def add(*args):
     print(sum)
 
 add(2,3,4,5,6)
+
+
+
