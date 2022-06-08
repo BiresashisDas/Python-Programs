@@ -1,5 +1,7 @@
 # Author :- Biresashis Das
 
+# NOTE :- **kwargs stands for "Keywords Argumnets".
+
 def calculate(n, **kwargs):
     n += kwargs["add"]
     n *= kwargs["multiply"]
