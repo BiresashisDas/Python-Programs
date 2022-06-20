@@ -56,7 +56,7 @@ Here is a few collection of my **Python Programs**.
 1. [Tkinter basic](Tkinter/Tkinter_basic.py)
 2. [*args](Tkinter/args.py)
 3. [**kwargs](Tkinter/kwargs.py)
-4. [kwargs using Class](Tkinter/kwargs_class.py)
+4. [kwargs](Tkinter/kwargs_class.py)  using Class
 
 # Random Python Programs
 1. [Calculator](Programs/calculator.py)
