@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<a href="www.linkedin.com/in/biresashis-das-b13503229" target="_blank">
+<a href="http://www.linkedin.com/in/biresashis-das-b13503229" target="_blank">
   <img height="100" alt="Dheeraj Choudhary | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
 </a> 
    
