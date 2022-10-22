@@ -65,3 +65,11 @@ Here is a few collection of my **Python Programs**.
 4. [Auction](Programs/auction.py)
 5. [Leap Year](Programs/leap_year(bool).py) (using Boolean)
 6. [NATO PHONETIC ALPHABET](Programs/nato_phonetic_alphabet/main.py)
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dheeraj-choudhary/" target="_blank">
+  <img height="100" alt="Dheeraj Choudhary | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
+</a> 
+
+</div>
